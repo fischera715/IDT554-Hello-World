@@ -1,2 +1,3 @@
-# IDT554-Hello-World
-GitHub Hello World exercise for IDT554
+# Hello World!
+
+This is my first GitHub repository for IDT554.
